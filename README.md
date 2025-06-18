@@ -44,7 +44,8 @@ I build CI/CD pipelines and cloud infrastructure using **Terraform** and **Jenki
 
 - 🔧 **[Ansible_project_lamp_stack](https://github.com/mohamed-55-iti/ansible-wordpress-deployment)** — LAMP stack automated setup with Ansible  
 - ☁️ **[terraform-infrastructure-for-ansible-lamp-stack](https://github.com/mohamed-55-iti/wordpress_ansible_project)** — Infra setup using Terraform  
-- 🔒 **[Three-Tier-DevSecOps-Pipeline](https://github.com/mohamed-55-iti/Full-DevSecOps-Project-blue-green-deployments)** — Full pipeline with Jenkins, Trivy, and Kubernetes  
+- 🔒 **[Three-Tier-DevSecOps-Pipeline](https://github.com/mohamed-55-iti/Full-DevSecOps-Project-blue-green-deployments)** — Full pipeline with Jenkins, Trivy, and Kubernetes
+- ☁️ **[Three-Tier-DevSecOps-Pipeline](https://github.com/mohamed-55-iti/iti_project).** — Full pipeline with Jenkins, Trivy,sonarcube and Kubernetes
 
 ---
 
